@@ -58,6 +58,13 @@ No setor de varejo físico e digital, a fraude não representa apenas um prejuí
 2. **Otimização de Custos em Revisão Manual:** Como a idade da conta provou ter correlação nula com o comportamento fraudulento, os analistas de risco não devem priorizar o tempo de conta como critério de triagem, liberando eficiência operacional para focar em telemetria de dispositivo e geolocalização.
 
 ---
+<img width="999" height="681" alt="image" src="https://github.com/user-attachments/assets/97a6bc94-5549-4cea-8613-df7656a5d582" />
+<img width="1006" height="662" alt="image" src="https://github.com/user-attachments/assets/ac624a9f-bbca-4d0b-935c-51cba901248e" />
+<img width="999" height="674" alt="image" src="https://github.com/user-attachments/assets/caf5d378-eee1-4d05-8dcb-189177a0d2f5" />
+<img width="999" height="672" alt="image" src="https://github.com/user-attachments/assets/a1ce2f82-b7e5-466d-971c-caad1ec4372e" />
+<img width="1003" height="670" alt="image" src="https://github.com/user-attachments/assets/028c1b34-7116-4a58-ad11-d3ee65c6cf2c" />
+<img width="1395" height="869" alt="image" src="https://github.com/user-attachments/assets/d65138c6-009c-41f7-8b3c-4168bb093f8f" />
+
 
 ## 5. Como Executar o Projeto
 
